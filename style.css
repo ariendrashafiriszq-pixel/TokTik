@@ -1,0 +1,18 @@
+html, body {
+    background-color: rgb(48, 47, 53);
+}
+
+.kotak {
+    background-color: #ffffff;
+    width: 360px;
+    height: 80px;
+    margin-top: 60px;
+    border-radius: 20px;
+    border: 3px solid rgb(242, 95, 95);
+}
+
+.bulat {
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 100px;
+}

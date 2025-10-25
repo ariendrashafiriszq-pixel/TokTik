@@ -1,0 +1,54 @@
+.back {
+    color: black;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.foto {
+    border-radius: 100px;
+}
+
+.nama {
+     font-family: sans-serif;
+     font-size: 50px;
+     margin-top: -100px;
+     margin-left: 140px;
+}
+
+.nama2 {
+     font-family: sans-serif;
+     font-size: 20px;
+     margin-top: -42px;
+     margin-left: 140px;
+}
+
+.follow {
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+
+.like {
+    margin-left: 15px;
+    font-family: sans-serif;
+    margin-top: -15px;
+}
+
+
+.font1 {
+    margin-left: 10px;
+    margin-top: -20px;
+}
+
+.menuBar {
+    background-color: rgb(141, 138, 138);
+    width: 360px;
+    height: 42px;
+    border-radius: 10px;
+    opacity: 50%;
+}
+
+.hati {
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+}
